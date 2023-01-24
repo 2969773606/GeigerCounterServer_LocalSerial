@@ -1,0 +1,2 @@
+# GeigerCounterServer_LocalSerial
+GeigerCounterServer Local Serial communication
